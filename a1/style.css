@@ -1,0 +1,109 @@
+header{
+    background-color: rgb(255, 153, 0);
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 17px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+body{
+    background-color: rgb(14, 14, 14);
+    margin: 0px;
+}
+footer{
+    background-color: rgb(36, 36, 36);
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 30px;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    border-top: 5px solid rgb(255, 153, 0);
+}
+a {
+    color: white;
+}
+
+nav {
+    background-color: rgb(70, 70, 70);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.box {
+    background-color: rgb(34, 34, 34);
+    padding: 30px;
+    margin: 10px;
+    width: 40%;
+    border-radius: 5px;
+    text-align: justify;
+    box-shadow:  0 4px 8px 5px rgba(231, 231, 231, 0.265);
+    font-size: 20px;
+}
+h3 {
+    color: rgb(255, 153, 0);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box p{
+    color: white;
+}
+
+nav {
+    background-color: rgb(46, 46, 46);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a:hover {
+    background-color: rgb(255, 153, 0);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+}
+    
+
+.box {
+    background-color: rgb(105, 105, 105);
+    padding: 30px;
+    margin: 10px;
+    width: 40%;
+    border-radius: 5px;
+    text-align: justify;
+    box-shadow:  0 4px 8px 5px rgba(0, 0, 0, 0.265);
+    font-size: 20px;
+    
+}
+h3 {
+    color: rgb(255, 153, 0);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box p{
+    color: white;
+}
+
+
+
+img{
+    display: flex;
+    margin: 0 auto; 
+    height: 200px;
+    width: 300px;
+}
