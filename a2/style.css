@@ -1,0 +1,114 @@
+.SOUR-GUMMY-Normal {
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .SOUR-GUMMY-Italic {
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .SOUR-GUMMY-Normal {
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .SOUR-GUMMY-Normal {
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .SOUR-GUMMY-Italic {
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .SOUR-GUMMY-Normal {
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+header{
+    color:rgb(0, 255, 106);
+    text-align: center;
+    text-shadow: rgb(206, 204, 204) 0px 1px 5px ;
+    font-size:30px;
+    margin-bottom:20px;
+}
+body{
+    font-family: "Sour Gummy", sans-serif;
+    font-style:unset;
+    color: rgb(0, 255, 106);
+    font-weight: 400;
+    font-style:normal;
+    border-radius: 25px;
+    text-align: center;
+   background-image: url(https://www.sgclark.com/blog/wp-content/uploads/2023/08/europe_soccer_spain_real_betis_third.png);
+   background-size: 250px 150px; 
+  }
+
+input, select{
+  border-radius: 25px;
+    border: 2px solid rgb(0, 255, 106);
+    border-color: rgb(0, 255, 106);
+    padding: 5px;
+}
+.container {
+  background-color: rgb(255, 255, 255);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.item {
+  background-color: rgba(19, 219, 219, 0.2); 
+  width: 100px;
+  border-radius: 15px; 
+  align-items: center;
+  color: rgb(0, 255, 106);
+  font-family: Comic Neue;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  transition: ease-in-out;
+  transition-duration: 2s;
+}
+.item2 {
+  background-color: rgba(26, 226, 226, 0.2); 
+  width: 100px;
+  border-radius: 15px; 
+  align-items: center;
+  color: rgb(0, 255, 106);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  transition: ease-in-out;
+  transition-duration: 2s;
+}
+.item3 {
+  background-color: rgba(19, 219, 219, 0.2);
+  width: 100px;
+  border-radius: 15px; 
+  align-items: center;
+  color: rgb(0, 255, 106);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif Neue;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  transition: ease-in-out;
+  transition-duration: 2s;
+}
